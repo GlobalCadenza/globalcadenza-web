@@ -1,5 +1,5 @@
 export default function Home() {
-  const whatsapp = "https://wa.me/34657294346?text=Hola%20Global%20Cadenza%20quiero%20más%20información"; // PON TU NUMERO SIN +
+  const whatsapp = "https://wa.me/34657294346?text=Hola%20Global%20Cadenza%20quiero%20más%20información";
 
   return (
     <main>
@@ -61,7 +61,7 @@ export default function Home() {
         <h2>Cómo funciona</h2>
         <ul className="steps" style={{ marginTop: "15px" }}>
           <li><strong>1.</strong> Evaluación gratuita.</li>
-          <li><strong>2.</strong> Plan personalizado según tu nivel e instrumento.</li>
+          <li><strong>2.</strong> Plan personalizado según tu perfil.</li>
           <li><strong>3.</strong> Preparación de solicitud y audiciones.</li>
           <li><strong>4.</strong> Documentación, residencia y llegada.</li>
           <li><strong>5.</strong> Seguimiento durante el primer año.</li>
